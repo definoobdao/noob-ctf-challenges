@@ -22,5 +22,5 @@ NOOB POINTS Token 合约: [链接](https://goerli.etherscan.io/address/0xc7fb6f3
 
 |week|题目名|合约代码|区块浏览器|
 |---|---|---|---|
-|1|藏起来的 Noob|[链接]([https://geithub.com/noob-ctf-challenges/src/NoobCtfChallengesWeek1.sol](https://github.com/definoobdao/noob-ctf-challenges/blob/main/src/NoobCtfChallengesWeek1.sol))|[链接](https://goerli.etherscan.io/address/0x1B06f491E7FF1E9239DDe6CFED8908DADD0d7dd9)
+|1|藏起来的 Noob|[链接]([链接](https://goerli.etherscan.io/address/0x1B06f491E7FF1E9239DDe6CFED8908DADD0d7dd9)|[链接](https://goerli.etherscan.io/address/0x1B06f491E7FF1E9239DDe6CFED8908DADD0d7dd9)
 update...|
