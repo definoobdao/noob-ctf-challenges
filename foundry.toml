@@ -1,0 +1,7 @@
+[default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+remappings = ['solmate/=lib/solmate/src/','@openzeppelin/=lib\openzeppelin-contracts\',]
+sender = '0x0000000000000000000000000000000000000007'
+#eth-rpc-url = "https://mainnet.infura.io"
