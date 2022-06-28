@@ -1,10 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
 
-    interface Inoobpoint {
-        function sendpotion(address recipient, uint256 amount) external;
-        function getnickname(address challenger) external returns(string memory);
-    }
+interface Inoobpoint {
+    function sendpotion(address recipient, uint256 amount) external;
+    function getnickname(address challenger) external returns(string memory);
+}
+
 contract NoobCtfChallengesWeek1{
     mapping (address => bool) isComplete;
     bytes32 private chagecontract_hash;
