@@ -25,3 +25,4 @@ NOOB POINTS Token 合约: [链接](https://goerli.etherscan.io/address/0xc7fb6f3
 |1|藏起来的 Noob|Noob 们不想被打扰, 把 Discord 链接还有获得积分的密码藏了起来, 你能找到它们吗?|[链接](https://github.com/definoobdao/noob-ctf-challenges/blob/main/src/NoobCtfChallengesWeek1.sol)|[链接](https://goerli.etherscan.io/address/0x1B06f491E7FF1E9239DDe6CFED8908DADD0d7dd9)|
 |2|Is it safe?|这份合约安全吗?你能从中获得足够多的代币完成这个挑战吗|[链接](https://github.com/definoobdao/noob-ctf-challenges/blob/main/src/NoobCtfChallengesWeek2.sol)|[链接](https://goerli.etherscan.io/address/0x3da52b36ae16dde3ef2cf503221338585f186b8e)|
 |3|Who's calling|你是谁,谁在调用|[链接](https://github.com/definoobdao/noob-ctf-challenges/blob/main/src/NoobCtfChallengesWeek3.sol)|[链接](https://goerli.etherscan.io/address/0xf56ff05865c783cf231a2b6536cef36b95375294)|
+|update...|||||
